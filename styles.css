@@ -1,0 +1,35 @@
+body{
+    background-color: aqua;
+}
+
+
+.BigTitle{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: fantasy;
+    color: rgb(0, 0, 0);
+}
+.liltitle{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: fantasy;
+    color: rgb(0, 0, 0);
+}
+.Intro{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: fantasy;
+    color: rgb(0, 0, 0);
+}
+.Forum{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: fantasy;
+    color: rgb(0, 0, 0);
+}
+.end{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: fantasy;
+    color: rgb(0, 0, 0);
+}
